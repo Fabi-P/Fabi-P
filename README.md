@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Fabiola </h1>
-<h3 align="center">:snake: Python Software Engineer & Neurodiversity Advocate :brain:</h3>
+<h3 align="center">Full-Stack Software Developer & Neurodiversity Advocate :brain:</h3>
 <br/>
 
 ## About me
@@ -9,15 +9,15 @@
 <br/>
 <br/>
 
-:sparkles:   I have recently graduated from **CodeFirstGirls degree**, where I have consolidated my foundation in `HTML`, `CSS`, `JavaScript` and developed more advanced software engineering concepts using `Python`.
+:sparkles:   I have recently graduated from **CodeFirstGirls degree +Masters**, where I have consolidated my foundation in `HTML`, `CSS`, `JavaScript` and developed more advanced software engineering concepts using `Python` and `Java`. Using full-stack frameworks like `Flask` and `Spring Boot`, I have learnt to develop and integrate `APIs` to perform CRUD operations on a `MySQL` database and talk to the user interface. I have used `Docker` to build containers and deploy the finished applications.
 <br/>
 <br/>
 
-:soon:   Next, I will be attending the CodeFirstGirls Masters to deep my toes into `Java`.
+:soon:   Portfolio website coming soon...
 <br/>
 <br/>
 
-🌱   I’m currently learning `React` and Machine Learning basic concepts. My dream is to become a Tech Entrepeneur and develop software to support neurodiverse fellow brains.
+🌱   I’m currently focusing on adding a `Thymeleaf` front-end to the latest `Spring Boot` projects. My dream is to become a Tech Entrepeneur and develop software to support neurodiverse fellow brains.
 <br/>
 <br/>
 
@@ -28,7 +28,7 @@
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,flask,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,flask,java,spring,maven,docker,idea,postman,pycharm,vscode)](https://skillicons.dev)
 <br/>
 <br/>
 
