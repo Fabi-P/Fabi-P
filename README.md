@@ -45,7 +45,8 @@
   - Integration with GIPHY API for dynamic GIF selection.  
   - MySQL database for storing user data and entries.  
 - **Skills Demonstrated:** Python, Flask, MySQL, API Integration, Docker.  
-- **GitHub Repository:** [GIFeels](https://github.com/Rachel-Tookey/GIFeels)  
+- **GitHub Repository:** [GIFeels](https://github.com/Fabi-P/GIFeels)
+- **Live Application:** [GIFeels live app](https://gifeels.fabiola.dev)
 <br/>
 
 ### 2. Record Shop - Backend API (In Progress)  
