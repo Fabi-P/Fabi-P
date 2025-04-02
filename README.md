@@ -22,10 +22,10 @@
 ## 📌 Current Focus  
 
 🔹 Actively looking for a **Software Developer** role to apply my skills in real-world projects.  
-🔹 Collaborating with a teammate from my bootcamp to **turn our final projects into real applications**.  
-🔹 Learning how to **deploy applications on AWS** and deepening my understanding of **Linux systems**.  
-🔹 Exploring **digital sustainability** and how to reduce the carbon footprint of websites and web applications.  
-🔹 Planning to integrate **eco-friendly development practices** into future projects to create more sustainable software solutions.  
+🔹 Volunteering with Scottish Tech Alliance to develop a Wordpress website for a charity.  
+🔹 Developing design skills on Figma, while designing [my portfolio website](https://fabiola.dev). 
+🔹 Exploring **digital sustainability** and how to [calculate](https://github.com/Fabi-P/carbon-calculator) and reduce my digital carbon footprint.  
+🔹 Participating in Hackathons and networking events (checkout my [LinkedIn](http://www.linkedin.com/in/fabiola-palmas) for updates). 
 <br/>
 <br/>
 ## 🌍 Connect with Me  
@@ -44,18 +44,19 @@
   - User authentication and secure login system.  
   - Integration with GIPHY API for dynamic GIF selection.  
   - MySQL database for storing user data and entries.  
-- **Skills Demonstrated:** Python, Flask, MySQL, API Integration, Docker.  
+- **Skills Demonstrated:** Python, Flask, MySQL, API Integration, Docker, GitHub Actions, AWS.  
 - **GitHub Repository:** [GIFeels](https://github.com/Fabi-P/GIFeels)
 - **Live Application:** [GIFeels live app](https://gifeels.fabiola.dev)
 <br/>
 
-### 2. Record Shop - Backend API (In Progress)  
+### 2. Record Shop - Java Spring Boot basic API
 - **Description:** Collaborating on building a secure backend for a record shop application using Python and Flask.  
 - **Key Features:**  
   - Role-based authentication for admins, employees, and customers.  
-  - Functionality to track purchases, manage stock, and view order history.  
+  - Functionality to track purchases, manage stock, and view order history.
+  - Front-end has been partially developed and can be found on [this branch](https://github.com/Fabi-P/record_shop_JAVA/tree/frontend-setup) 
 - **Skills Demonstrated:** Java, Spring Boot, RESTful API Development, Security Practices, Database Management.  
-- **GitHub Repository:** [Record Shop Security Project](https://github.com/Rachel-Tookey/RecordShop_Security_Project)  
+- **GitHub Repository:** [Record Shop API Project](https://github.com/Fabi-P/record_shop_JAVA)  
 <br/>
 
 ### 3. Yoga Management Database - SQL Project  
