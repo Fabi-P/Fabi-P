@@ -23,7 +23,7 @@
 
 🔹 Actively looking for a **Software Developer** role to apply my skills in real-world projects.  
 🔹 Volunteering with Scottish Tech Alliance to develop a Wordpress website for a charity.  
-🔹 Developing design skills on Figma, while designing [my portfolio website](https://fabiola.dev). 
+🔹 Developing design skills on Figma, while designing [my portfolio website](https://fabiola.dev).  
 🔹 Exploring **digital sustainability** and how to [calculate](https://github.com/Fabi-P/carbon-calculator) and reduce my digital carbon footprint.  
 🔹 Participating in Hackathons and networking events (checkout my [LinkedIn](http://www.linkedin.com/in/fabiola-palmas) for updates). 
 <br/>
@@ -33,6 +33,7 @@
 <a href="https://www.linkedin.com/in/fabiola-palmas/">
   <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
 </a>
+
 <br/>
 <br/>
 
