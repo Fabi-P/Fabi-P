@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Fabiola </h1>
-<h3 align="center">Junior Software Developer & Neurodiversity Advocate :brain:</h3>
+<h3 align="center">Web & Software Developer<br/>:brain: Neurodiversity Advocate</h3>
 <br/>
 
 ## 🚀 About Me  
@@ -9,7 +9,7 @@
 🎓 Graduated with Distinction from **Code First Girls Degree + Masters**, where I gained expertise in `Python`, `JavaScript`, `Flask`, and `Java`.  
 🔧 Skilled in developing full-stack applications, integrating `APIs`, and managing `MySQL` databases.  
 🐳 Experienced with `Docker` for containerization and deployment.  
-💭 Aspiring **Tech Entrepreneur**, passionate about developing software that empowers neurodiverse individuals.  
+💭 Passionate about developing software that empowers neurodiverse individuals.  
 👩‍🏫 Former **Primary Teacher**—I first discovered coding through my students!  
 <br/>
 <br/>
@@ -21,11 +21,10 @@
 <br/>
 ## 📌 Current Focus  
 
-🔹 Actively looking for a **Software Developer** role to apply my skills in real-world projects.  
-🔹 Volunteering with Scottish Tech Alliance to develop a Wordpress website for a charity.  
-🔹 Developing design skills on Figma, while designing [my portfolio website](https://fabiola.dev).  
+🔹 Working as freelance web developer for small businesses, freelancers and creatives.  
+🔹 Volunteering for Scottish Tech Alliance and local community groups.  
+🔹 Developing design skills on Figma, while updating [my portfolio website](https://fabiola.dev).  
 🔹 Exploring **digital sustainability** and how to [calculate](https://github.com/Fabi-P/carbon-calculator) and reduce my digital carbon footprint.  
-🔹 Participating in Hackathons and networking events (checkout my [LinkedIn](http://www.linkedin.com/in/fabiola-palmas) for updates). 
 <br/>
 <br/>
 ## 🌍 Connect with Me  
@@ -37,7 +36,7 @@
 <br/>
 <br/>
 
-## 🏆 Featured Projects
+## 🏆 Featured Software Projects
 
 ### 1. GIFeels - Mood Tracking Web Application  
 - **Description:** Developed a Python-Flask web application that enables users to track their mood through GIFs and journal entries.  
@@ -47,7 +46,6 @@
   - MySQL database for storing user data and entries.  
 - **Skills Demonstrated:** Python, Flask, MySQL, API Integration, Docker, GitHub Actions, AWS.  
 - **GitHub Repository:** [GIFeels](https://github.com/Fabi-P/GIFeels)
-- **Live Application:** [GIFeels live app](https://gifeels.fabiola.dev)
 <br/>
 
 ### 2. Record Shop - Java Spring Boot basic API
